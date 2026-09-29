@@ -1,0 +1,1 @@
+Los archivos en el ejemplo, están cambiados, de todas formas he podido añadir bien los demás juegos y utilicé @Param para identificar y buscar un recurso único y obligatorio por su ID, mientras que empleé @Query para los filtros y consultas opcionales en los listados.
